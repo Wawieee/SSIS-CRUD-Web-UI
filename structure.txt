@@ -1,0 +1,18 @@
+.
+├── run.py
+├── config.py
+├── .env
+└── app/
+    ├── models/
+    │   ├── course
+    │   └── student
+    ├── templates/
+    │   ├── index.html
+    │   ├── course.html
+    │   ├── student.html
+    │   ├── add_student.html
+    │   ├── add_course.html
+    │   ├── edit_course.html
+    │   └── edit_student.html
+    └── views/
+        └── routes
